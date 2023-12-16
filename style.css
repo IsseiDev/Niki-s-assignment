@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.top-left{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.top-center{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.top-right{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.center-left{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.center-mid{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}.center-right{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.bottom-left{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.bottom-mid{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.bottom-right{
+    display: inline-block;
+    border: 2px white solid;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+}
+.top-left:hover, .top-center:hover, .top-right:hover, .center-left:hover, .center-mid:hover, .center-right:hover, .bottom-left:hover, .bottom-mid:hover, .bottom-right:hover{
+    background-color: lightblue;
+}
